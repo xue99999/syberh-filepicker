@@ -6,4 +6,8 @@
         <file>qml/SDelegateComponent.qml</file>
         <file>js/util/tool.js</file>
     </qresource>
+    <qresource prefix="/">
+        <file>img/line.png</file>
+        <file>img/document.png</file>
+    </qresource>
 </RCC>
